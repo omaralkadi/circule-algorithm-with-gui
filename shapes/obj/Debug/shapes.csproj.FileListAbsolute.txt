@@ -1,0 +1,9 @@
+E:\asp.net projects\shapes\shapes\bin\Debug\shapes.exe.config
+E:\asp.net projects\shapes\shapes\bin\Debug\shapes.exe
+E:\asp.net projects\shapes\shapes\bin\Debug\shapes.pdb
+E:\asp.net projects\shapes\shapes\obj\Debug\shapes.csprojAssemblyReference.cache
+E:\asp.net projects\shapes\shapes\obj\Debug\shapes.Form1.resources
+E:\asp.net projects\shapes\shapes\obj\Debug\shapes.Properties.Resources.resources
+E:\asp.net projects\shapes\shapes\obj\Debug\shapes.csproj.GenerateResource.cache
+E:\asp.net projects\shapes\shapes\obj\Debug\shapes.exe
+E:\asp.net projects\shapes\shapes\obj\Debug\shapes.pdb
